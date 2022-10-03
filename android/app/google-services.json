@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974998186826",
+    "project_id": "coincidencelogin",
+    "storage_bucket": "coincidencelogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974998186826:android:c8b1d7e04c62064d53afb3",
+        "android_client_info": {
+          "package_name": "com.example.coincidence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974998186826-o6q3s3a1shrm318144suuahle8edg658.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coincidence",
+            "certificate_hash": "7f9749dfea13eafb5a51e55f3cffd70879926d97"
+          }
+        },
+        {
+          "client_id": "974998186826-fk4ip75hhcttmgki4dunghineld9scr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-7AJeCLr9ByYmRvKWgWBVerWv9aRDk4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974998186826-fk4ip75hhcttmgki4dunghineld9scr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
