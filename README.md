@@ -20,16 +20,4 @@ As say that the password should be of atleast 6 characters.
 
 Here then I have provided the Single Child Scroll view in the home page.
 I have used the Custom card layout for presenting the teams.
-
-For the Teams Page:
-I have collected the player data,and teams.
-I have also created a Searchbar layout in general and the custom card layout which will help to display the player photo and the position.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here by clicking on the player you can also see the player featured card.
